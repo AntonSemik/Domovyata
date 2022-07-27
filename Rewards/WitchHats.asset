@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 80791c94b68c8dc4bb9ace3f3642519a, type: 3}
+  m_Name: WitchHats
+  m_EditorClassIdentifier: 
+  _icon: {fileID: 21300000, guid: 0cd1b8a5ed64e104d9511b63143a1e13, type: 3}
+  _itemId: 2
+  _amount: 5
