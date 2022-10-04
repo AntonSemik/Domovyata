@@ -1,0 +1,377 @@
+
+domovoy_clothes_1.png
+size: 1256,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boyar/boyar_body
+  rotate: true
+  xy: 266, 14
+  size: 107, 139
+  orig: 107, 139
+  offset: 0, 0
+  index: -1
+boyar/boyar_bottom
+  rotate: false
+  xy: 638, 70
+  size: 89, 45
+  orig: 89, 45
+  offset: 0, 0
+  index: -1
+boyar/boyar_cloak_front
+  rotate: false
+  xy: 407, 14
+  size: 118, 107
+  orig: 118, 107
+  offset: 0, 0
+  index: -1
+boyar/boyar_foot_left
+  rotate: true
+  xy: 927, 2
+  size: 46, 23
+  orig: 46, 23
+  offset: 0, 0
+  index: -1
+boyar/boyar_foot_right
+  rotate: true
+  xy: 951, 58
+  size: 46, 23
+  orig: 46, 23
+  offset: 0, 0
+  index: -1
+boyar/boyar_hand_left_1
+  rotate: false
+  xy: 216, 34
+  size: 48, 43
+  orig: 48, 43
+  offset: 0, 0
+  index: -1
+boyar/boyar_hand_left_2
+  rotate: true
+  xy: 1040, 88
+  size: 43, 61
+  orig: 43, 61
+  offset: 0, 0
+  index: -1
+boyar/boyar_hand_right_1
+  rotate: false
+  xy: 803, 2
+  size: 47, 44
+  orig: 47, 44
+  offset: 0, 0
+  index: -1
+boyar/boyar_hand_right_2
+  rotate: true
+  xy: 838, 106
+  size: 44, 67
+  orig: 44, 67
+  offset: 0, 0
+  index: -1
+boyar/boyar_hat
+  rotate: false
+  xy: 745, 152
+  size: 230, 115
+  orig: 230, 115
+  offset: 0, 0
+  index: -1
+boyar/boyar_leg_left_1
+  rotate: true
+  xy: 216, 2
+  size: 30, 42
+  orig: 30, 42
+  offset: 0, 0
+  index: -1
+boyar/boyar_leg_left_2
+  rotate: true
+  xy: 976, 53
+  size: 33, 49
+  orig: 33, 49
+  offset: 0, 0
+  index: -1
+boyar/boyar_leg_right_1
+  rotate: true
+  xy: 1186, 49
+  size: 30, 42
+  orig: 30, 42
+  offset: 0, 0
+  index: -1
+boyar/boyar_leg_right_2
+  rotate: true
+  xy: 2, 2
+  size: 32, 49
+  orig: 32, 49
+  offset: 0, 0
+  index: -1
+boyar/boyrin_cloak_behind
+  rotate: false
+  xy: 977, 133
+  size: 167, 134
+  orig: 167, 134
+  offset: 0, 0
+  index: -1
+boyar_girl/boyar_girl_body
+  rotate: false
+  xy: 1146, 126
+  size: 108, 141
+  orig: 108, 141
+  offset: 0, 0
+  index: -1
+boyar_girl/boyar_girl_bottom
+  rotate: false
+  xy: 125, 32
+  size: 89, 45
+  orig: 89, 45
+  offset: 0, 0
+  index: -1
+boyar_girl/boyar_girl_cloak_front
+  rotate: false
+  xy: 2, 36
+  size: 121, 41
+  orig: 121, 41
+  offset: 0, 0
+  index: -1
+boyar_girl/boyar_girl_colts
+  rotate: false
+  xy: 266, 123
+  size: 269, 144
+  orig: 269, 144
+  offset: 0, 0
+  index: -1
+boyar_girl/boyar_girl_foot_left
+  rotate: true
+  xy: 901, 2
+  size: 46, 24
+  orig: 46, 24
+  offset: 0, 0
+  index: -1
+boyar_girl/boyar_girl_foot_right
+  rotate: true
+  xy: 1076, 41
+  size: 45, 24
+  orig: 45, 24
+  offset: 0, 0
+  index: -1
+boyar_girl/boyar_girl_hand_left_1
+  rotate: false
+  xy: 1190, 81
+  size: 47, 43
+  orig: 47, 43
+  offset: 0, 0
+  index: -1
+boyar_girl/boyar_girl_hand_left_2
+  rotate: true
+  xy: 729, 70
+  size: 43, 62
+  orig: 43, 62
+  offset: 0, 0
+  index: -1
+boyar_girl/boyar_girl_hand_right_1
+  rotate: false
+  xy: 852, 2
+  size: 47, 44
+  orig: 47, 44
+  offset: 0, 0
+  index: -1
+boyar_girl/boyar_girl_hand_right_2
+  rotate: false
+  xy: 697, 2
+  size: 46, 66
+  orig: 46, 66
+  offset: 0, 0
+  index: -1
+boyar_girl/boyar_girl_leg_left_1
+  rotate: true
+  xy: 1068, 9
+  size: 30, 42
+  orig: 30, 42
+  offset: 0, 0
+  index: -1
+boyar_girl/boyar_girl_leg_left_2
+  rotate: false
+  xy: 952, 2
+  size: 33, 49
+  orig: 33, 49
+  offset: 0, 0
+  index: -1
+boyar_girl/boyar_girl_leg_right_1
+  rotate: true
+  xy: 1112, 13
+  size: 30, 42
+  orig: 30, 42
+  offset: 0, 0
+  index: -1
+boyar_girl/boyar_girl_leg_right_2
+  rotate: false
+  xy: 987, 2
+  size: 33, 49
+  orig: 33, 49
+  offset: 0, 0
+  index: -1
+domovoy_cheek_left
+  rotate: true
+  xy: 638, 2
+  size: 66, 57
+  orig: 66, 57
+  offset: 0, 0
+  index: -1
+domovoy_cheek_right
+  rotate: false
+  xy: 890, 50
+  size: 59, 54
+  orig: 59, 54
+  offset: 0, 0
+  index: -1
+domovoy_eye_left
+  rotate: true
+  xy: 745, 8
+  size: 60, 56
+  orig: 60, 56
+  offset: 0, 0
+  index: -1
+domovoy_eye_right
+  rotate: false
+  xy: 828, 48
+  size: 60, 56
+  orig: 60, 56
+  offset: 0, 0
+  index: -1
+domovoy_eyebrow_left
+  rotate: false
+  xy: 803, 52
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+domovoy_eyebrow_right
+  rotate: true
+  xy: 1206, 24
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+domovoy_head
+  rotate: false
+  xy: 537, 117
+  size: 206, 150
+  orig: 206, 150
+  offset: 0, 0
+  index: -1
+domovoy_hear
+  rotate: false
+  xy: 2, 79
+  size: 262, 188
+  orig: 262, 188
+  offset: 0, 0
+  index: -1
+domovoy_mouth
+  rotate: false
+  xy: 1156, 24
+  size: 48, 19
+  orig: 48, 19
+  offset: 0, 0
+  index: -1
+domovoy_nose
+  rotate: false
+  xy: 1103, 81
+  size: 35, 50
+  orig: 35, 50
+  offset: 0, 0
+  index: -1
+domovoy_pupil_left
+  rotate: false
+  xy: 53, 2
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+domovoy_pupil_right
+  rotate: false
+  xy: 86, 2
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+kusya/domovoy_bast_shoes_left
+  rotate: false
+  xy: 163, 3
+  size: 41, 27
+  orig: 41, 27
+  offset: 0, 0
+  index: -1
+kusya/domovoy_bast_shoes_right
+  rotate: false
+  xy: 119, 3
+  size: 42, 27
+  orig: 42, 27
+  offset: 0, 0
+  index: -1
+kusya/domovoy_body_red
+  rotate: true
+  xy: 527, 12
+  size: 103, 109
+  orig: 103, 109
+  offset: 0, 0
+  index: -1
+kusya/domovoy_bottom_grey
+  rotate: false
+  xy: 745, 115
+  size: 91, 35
+  orig: 91, 35
+  offset: 0, 0
+  index: -1
+kusya/domovoy_hand_red_left_1
+  rotate: false
+  xy: 1140, 81
+  size: 48, 43
+  orig: 48, 43
+  offset: 0, 0
+  index: -1
+kusya/domovoy_hand_red_left_2
+  rotate: true
+  xy: 976, 88
+  size: 43, 62
+  orig: 43, 62
+  offset: 0, 0
+  index: -1
+kusya/domovoy_hand_red_right_1
+  rotate: false
+  xy: 1027, 42
+  size: 47, 44
+  orig: 47, 44
+  offset: 0, 0
+  index: -1
+kusya/domovoy_hand_red_right_2
+  rotate: true
+  xy: 907, 106
+  size: 44, 67
+  orig: 44, 67
+  offset: 0, 0
+  index: -1
+kusya/domovoy_leg_grey_left_1
+  rotate: false
+  xy: 793, 70
+  size: 33, 43
+  orig: 33, 43
+  offset: 0, 0
+  index: -1
+kusya/domovoy_leg_grey_left_2
+  rotate: true
+  xy: 1102, 45
+  size: 34, 40
+  orig: 34, 40
+  offset: 0, 0
+  index: -1
+kusya/domovoy_leg_grey_right_1
+  rotate: true
+  xy: 1022, 7
+  size: 33, 44
+  orig: 33, 44
+  offset: 0, 0
+  index: -1
+kusya/domovoy_leg_grey_right_2
+  rotate: true
+  xy: 1144, 45
+  size: 34, 40
+  orig: 34, 40
+  offset: 0, 0
+  index: -1
